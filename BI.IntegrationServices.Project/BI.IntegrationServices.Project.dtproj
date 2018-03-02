@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">LAPTOP-IT2QFENV</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACb0cZfABMUeCVSRSMFN+2QAAAAACAAAAAAAQZgAAAAEAACAAAAA0fCi99klkXzOGjfRUOxrlPVHSaWzKjWmsG6/aPryBBQAAAAAOgAAAAAIAACAAAAAhA/1UTGTnMXmti/acATgz17Xr5tizc0k9m5qRE5iKF5AAAADzKf0pTGfuhmkSkeh7/IL4cFYzejibuE8LZTcG3JwQO8HOz52i1JchQy+Y/1xj38ouLidjjC5MfEIMWTV1Eqf3QM+Qq7KL5R6dpR35XrosPzXC9+ZlBMPQGEqxL0+6qNaT2REGNshVVbEpOOOZIyWKdsjAo6OVWNnN5WkkB9gLJQAu8AigdOZKk2Aj+sCoNiZAAAAAeABGHhL1NWDursMICqP0NGD0N0am6HG44QJsfnOPFJpqhTSXY+RSMnyVin4P6qommR1KkC93Adp9kZy/uvD2/Q==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACb0cZfABMUeCVSRSMFN+2QAAAAACAAAAAAAQZgAAAAEAACAAAABDNcAl5aviDUvX6J3ZLAJXmuaHcTTsVQsdm8+CVOD/OAAAAAAOgAAAAAIAACAAAADfaJokVCac8/PJ25SXkXr927ObK3Rb+RoYy8Wd7LiYtZAAAACUSOwmR5r3Q7XOGD7EaxxHStLhx7woZn4HUnRA/a5Cv1QTX+gtvGwsTABHYJ+Sik14BaDOdRM9096eQGBfisNszeGCSYwUJl4P6rMuHeaLUmVP/SaVaMQwTG7zfHSu1rcxefYj6PfWeJiLfgZbvHfKSAbSePoo6ID3ydLca3hnnKtIqPVDVXjb+zE4yAV3os9AAAAAWjuYnWJvhx36WGTEPJMq+wLNci5JOYZbXdWPOzSTRMDrmq+z36yACV2hgP+KZZRTgmg5kQkPd6QlRx9MKPg89w==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Lesson 1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">4</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">16</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{953E53F7-BB0F-472D-81FA-7722A4077685}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{68263BDB-6079-4EA8-A445-2FFE04F0B3A2}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -196,7 +196,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">D:\Development\Spike Projects\BI\IntegrationServices\Microsoft Integration Services Product Samples\SampleCurrencyData.txt</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">D:\Development\Spike Projects\BI\Spike-SSIS\BI.IntegrationServices.Data\SampleCurrencyData_New.txt</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -287,6 +287,8 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">
+                    </SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
